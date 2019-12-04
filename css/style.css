@@ -1,0 +1,15 @@
+#generator-main{
+    -webkit-box-shadow: 2px 3px 8px grey;
+    -moz-box-shadow: 2px 3px 8px grey;
+    box-shadow: 2px 3px 8p grey;
+}
+
+#passwordBox{
+    border: dashed grey;
+}
+
+@media screen and (max-width: 767px){
+    #copy-button{
+        margin-top: 10px;
+    }
+}
